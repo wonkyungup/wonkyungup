@@ -7,6 +7,6 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/wonkyungup/wonkyungup/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <p align="center"> 
-  Visitor count<br>
+  VISITOR COUNT<br>
   <img src="https://profile-counter.glitch.me/wonkyungup/count.svg" />
 </p>
