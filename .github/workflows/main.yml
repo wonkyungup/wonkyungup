@@ -1,16 +1,17 @@
-# This is a basic workflow to help you get started with Actions
+name: generate animation
 
-name: CI
-
-# Controls when the workflow will run
 on:
-  # Allows you to run this workflow manually from the Actions tab
+  # run automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *" 
+  
+  # allows to manually run the job at any time
   workflow_dispatch:
-  # Triggers the workflow on push or pull request events but only for the "master" branch
+  
+  # run on every push on the master branch
   push:
-    branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
+    branches:
+    - master
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
