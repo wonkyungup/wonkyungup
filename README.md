@@ -1,7 +1,12 @@
-<p float="center">
-  <img src="https://user-images.githubusercontent.com/34180230/199898057-e86348a5-1587-445a-9ae2-72283dfe54d1.gif" width="400" height="300">
-  <img src="https://user-images.githubusercontent.com/34180230/199898196-ee32e688-7024-4865-bc3a-5957538ec206.gif" width="400" height="300">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/34180230/200117926-d89d1277-e7d9-499b-bb19-856a7e6a217a.gif" />
 </p>
+
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=wonkyungup&column=-1" />
+</a>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/wonkyungup/wonkyungup/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/wonkyungup/wonkyungup/output/github-contribution-grid-snake.svg#gh-light-mode-only)
